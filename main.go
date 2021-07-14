@@ -15,5 +15,6 @@ func main() {
 		webcam.Read(&img)
 		window.IMShow(img)
 		window.WaitKey(1)
+		////테스트트트
 	}
 }
